@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**MartDominik/MartDominik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2 align="left"> 🧰 Languages and tools </h2>
+
+<div align="left" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" style="width: 45px; height: auto; margin-left: 400px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="Composer" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 40px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VScode" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="VisualStudio" style="width: 45px; height: auto; margin: 0 15px 15px 0;">
+</div>
+
